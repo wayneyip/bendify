@@ -10,7 +10,7 @@ Here's Bendify to the rescue! With the click of a few buttons, Bendify automatic
 
 Here's a simple demo of the tool in action:
 
-![Bendify_gif2](https://i.imgur.com/x36FFWO.gifv)
+![Bendify_gif2](https://i.imgur.com/x36FFWO.gif)
 
 ## Instructions
 
