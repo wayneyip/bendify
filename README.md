@@ -1,12 +1,12 @@
 # Bendify
 ![Bendify_img1](https://i.imgur.com/XK3heOD.png)
 
-An automatic bendy joint creation tool for rigging in Maya.
+Maya Python tool to automate bendy joint chain setup on two given joints.
 
-## Overview
-Bendy, stretchy movement is still uncommon in 3D animation. Unlike hand-drawn 2D animation, 3D faces the challenge of having to mathematize bendiness, which can mean incredible complexity in rig setup.
-
-Here's Bendify to the rescue! With the click of a few buttons, Bendify automatically creates a bendy joint system driven by your selected base joints. Make 3D animation cartoony again!
+## Features
+- Automatic setup of up to 20 sub-joints within 1 second
+- Quadratic weight distribution across parent constraints, for bendy behavior
+- Automatic setup of curveInfo and multiplyDivide nodes, for stretchiness
 
 Here's a simple demo of the tool in action:
 
@@ -45,8 +45,3 @@ Here's a simple demo of the tool in action:
 
 **Contact**: yipw@usc.edu
 
-## Coming Soon
-
-- Control curve size modifier
-- Selection-based system (to replace name typing in UI)
-- Set creation for bind joints
