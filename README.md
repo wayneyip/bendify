@@ -1,5 +1,5 @@
 # Bendify
-![Bendify_img1](https://i.imgur.com/XK3heOD.png)
+![Bendify_img1](https://i.imgur.com/x36FFWO.gif?)
 
 Maya Python tool to automate bendy joint chain setup on two given joints.
 
@@ -7,10 +7,6 @@ Maya Python tool to automate bendy joint chain setup on two given joints.
 - Automatic setup of up to 20 sub-joints within 1 second
 - Quadratic weight distribution across parent constraints, for bendy behavior
 - Automatic setup of curveInfo and multiplyDivide nodes, for stretchiness
-
-Here's a simple demo of the tool in action:
-
-![Bendify_gif2](https://i.imgur.com/x36FFWO.gif)
 
 ## Instructions
 
