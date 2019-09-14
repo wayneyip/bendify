@@ -1,5 +1,5 @@
 # Bendify
-![Bendify_img1](https://i.imgur.com/x36FFWO.gif?)
+![Bendify_img1](https://raw.githubusercontent.com/wayneyip/bendify/master/bendify_gif1.gif)
 
 Maya Python tool to automate bendy joint chain setup on two given joints.
 
